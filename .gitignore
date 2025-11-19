@@ -13,3 +13,6 @@ __pycache__/
 *.py[cod]
 # MSYS2 / mingw caches
 /mingw64/bin/
+*.png
+*.jpg
+*.csv
