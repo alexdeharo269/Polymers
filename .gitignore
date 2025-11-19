@@ -1,0 +1,14 @@
+# build artifacts
+*.exe
+*.o
+*.obj
+*.log
+*.out
+# Visual Studio / IDE
+.vs/
+*.user
+# Python/visuals
+__pycache__/
+*.py[cod]
+# MSYS2 / mingw caches
+/mingw64/bin/
